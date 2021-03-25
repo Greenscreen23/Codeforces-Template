@@ -3,6 +3,7 @@
 #define rep(a, b) for (ll a = 0; a < (b); ++a)
 #define frep(b) while ((b)--)
 #define repb(a, b) for (ll a = (b)-1; a >= 0; --a)
+#define repAll(i, v) for (auto &i : v)
 #define all(a) (a).begin(), (a).end()
 #define endl '\n'
 
@@ -27,7 +28,7 @@ int main()
     {
         manageCase();
     }
-    manageCase();
+    // manageCase();
 
     return 0;
 }
