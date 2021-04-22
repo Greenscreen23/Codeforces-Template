@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 
-#define rep(a, b, c) for (ll a = (b); a < (c); ++a)
+#define rep(a, b) for (ll a = 0; a < (b); ++a)
 #define frep(a) while ((a)--)
-#define repb(a, b, c) for (ll a = (c)-1; a >= (b); --a)
+#define repb(a, b) for (ll a = (b)-1; a >= 0; --a)
 #define repAll(i, v) for (auto &i : v)
 #define all(a) (a).begin(), (a).end()
 #define endl '\n'
