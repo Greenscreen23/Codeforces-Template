@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-#include <numeric>
 
 #define rep(a, b) for (ll a = 0; a < (b); ++a)
 #define reps(a, b, c) for (ll a = b; a < (c); ++a)
